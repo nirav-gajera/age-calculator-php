@@ -1,3 +1,3 @@
 # age-calculator-php
 
-simple age calculator using php and bootstrap.
+Simple Age Calculator using php and bootstrap.
